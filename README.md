@@ -1,2 +1,3 @@
-Balloon Shooter game played using hand gestures with are detected by Hand Detection module. Implemented using Python with Pygame and Open cv and Mediapipe modules. 
-Players can control the aim but opening their palm and moving, if they want to shoot the just fold the palm.
+For our college fest, I created an interactive balloon-popping game that leverages hand-tracking technology. The primary motivation behind this project was to showcase innovative uses of computer vision and gesture recognition, providing an engaging and educational experience for attendees. The game combines the Pygame library for the graphical interface and OpenCV for real-time hand tracking, allowing players to pop virtual balloons by simply moving their hands.
+
+The outcome was overwhelmingly positive, with participants enjoying the interactive aspect and the novelty of using hand gestures to play a game. It not only demonstrated the practical applications of computer vision in a fun and accessible way but also sparked interest in further exploring the possibilities of combining different technologies for creative projects.
